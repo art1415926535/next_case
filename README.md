@@ -2,6 +2,8 @@
 
 Snake case ➡ Screaming snake case ➡ Camel case ➡ Snake case ➡ Screaming snake case ➡ Camel case ➡ ...
 
+![next_case](https://github.com/art1415926535/next_case/blob/master/example.gif)
+
 # Usage
 1. Update file:
    ```
@@ -11,6 +13,9 @@ Snake case ➡ Screaming snake case ➡ Camel case ➡ Snake case ➡ Screaming 
    ```
    Next_case.exe copy MyVariable
    ```
+
+# Download
+Download Windows binaries from the [releases page](https://github.com/art1415926535/next_case/releases).
 
 # Integration
 ## PyCharm
